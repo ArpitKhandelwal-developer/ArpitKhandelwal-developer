@@ -24,8 +24,6 @@
 - Instagram: [Arpit Khandelwal](https://www.instagram.com/arpit._.exe/)
 - Twitter: [URL](https://twitter.com/ArpitKh01199788)
 - Discord : `Arpit Khandelwal#8488`
-- ![Arpit Khandewlwal](https://discord.c99.nl/widget/theme-3/851344098597797948.png)
-
 
 ## My Stocks:
 
