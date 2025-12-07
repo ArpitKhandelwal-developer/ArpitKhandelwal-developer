@@ -112,18 +112,18 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArpitKhandelwal-developer&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arpittkhandelwal&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=ArpitKhandelwal-developer&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=arpittkhandelwal&theme=radical" />
 </p>
 
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/ArpitKhandelwal-developer/ArpitKhandelwal-developer/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/ArpitKhandelwal-developer/arpittkhandelwal/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -131,7 +131,7 @@
 ## 👀 Profile Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ArpitKhandelwal-developer&style=for-the-badge&color=brightgreen" />
+  <img src="https://komarev.com/ghpvc/?username=arpittkhandelwal&style=for-the-badge&color=brightgreen" />
 </p>
 
 ---
