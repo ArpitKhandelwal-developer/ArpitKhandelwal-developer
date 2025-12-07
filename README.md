@@ -102,14 +102,16 @@
 
 ---
 
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arpittkhandelwal&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arpittkhandelwal&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=arpittkhandelwal&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpittkhandelwal&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
