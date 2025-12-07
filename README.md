@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arpit Khandelwal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Enthusiast;Data+Science+%7C+Cyber+Security+%7C+Cloud+%7C+Full+Stack;B.Tech+CSE+2nd+Year+Student+at+LPU;Building+Skills+for+Product+Based+Companies;Future+AI+Startup+Founder;Always+Learning+%7C+Always+Building">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Enthusiast;Data+Science+%7C+Cloud+%7C+Cyber+Security;B.Tech+CSE+2nd+Year+Student+at+LPU;Future+AI+Startup+Founder;Always+Learning+%7C+Always+Building" />
 </p>
 
 <p align="center">
-  🚀 Future AI Founder & ML Engineer &nbsp;|&nbsp; 🎓 B.Tech CSE (2nd Year) at LPU &nbsp;|&nbsp; 🇮🇳 India
+  🚀 Future AI Founder & ML Engineer | 🎓 B.Tech CSE (2nd Year) at LPU | 🇮🇳 India
 </p>
 
 ---
@@ -18,7 +18,7 @@
 - 🎯 2025 Goal: **Crack AI/ML Internship + Build SmartBiz AI**
 - 💡 Interested in **AI, Data, System Design, and Problem Solving**
 - 💬 Ask me about **Python, ML, GitHub, Roadmaps, and Tech Career**
-- 🏫 College: **Lovely Professional University – B.Tech CSE (Lateral Entry, 2nd Year)**
+- 🏫 College: **Lovely Professional University – B.Tech CSE (2nd Year)**
 - 📫 Reach me via **LinkedIn DM or GitHub**
 
 ---
@@ -26,10 +26,10 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/ArpitKhandelwal-developer" target="_blank">
+  <a href="https://github.com/arpittkhandelwal">
     <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/arpitttkhandelwal" target="_blank">
+  <a href="https://www.linkedin.com/in/arpitttkhandelwal">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
@@ -48,7 +48,6 @@
 
 ### 🤖 AI / ML / Data Science
 <p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -58,9 +57,7 @@
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
 ### 🧰 Tools & Platforms
@@ -79,22 +76,18 @@
 - ✅ Kaggle Python & Data Science  
 - ✅ Microsoft AI Fundamentals  
 
-*(Will keep updating this section as I complete more)*
-
 ---
 
 ## 🧩 Competitive Programming Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/arpitkhandelwal810/" target="_blank">
+  <a href="https://leetcode.com/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange"/>
   </a>
-  
-  <a href="https://www.hackerrank.com/arpitkhandelwal9" target="_blank">
+  <a href="https://www.hackerrank.com/" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
   </a>
-
-  <a href="https://www.geeksforgeeks.org/user/your-gfg-username/" target="_blank">
+  <a href="https://www.geeksforgeeks.org/" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
 </p>
@@ -119,11 +112,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?username=arpittkhandelwal&theme=radical" />
 </p>
 
+---
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/ArpitKhandelwal-developer/arpittkhandelwal/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/arpittkhandelwal/arpittkhandelwal/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -136,4 +130,4 @@
 
 ---
 
-⭐ If you like my profile, consider **following** and ⭐️ **starring** my future repositories!
+⭐ If you like my profile, consider **following** and ⭐️ **starring** my repositories!
