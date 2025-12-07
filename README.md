@@ -102,19 +102,26 @@
 
 ---
 
----
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arpittkhandelwal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img src="https://img.shields.io/badge/Total%20Repositories-35-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Stars-6-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Followers-3-green?style=for-the-badge" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/arpittkhandelwal/arpittkhandelwal?style=for-the-badge" />
+  <img src="https://img.shields.io/github/commit-activity/m/arpittkhandelwal/arpittkhandelwal?style=for-the-badge" />
+</p>
+
+--- 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpittkhandelwal&theme=tokyonight&hide_border=true" />
 </p>
 
+---
 
 ## 🐍 Contribution Snake
 
