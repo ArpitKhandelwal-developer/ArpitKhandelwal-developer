@@ -90,7 +90,7 @@
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange"/>
   </a>
   
-  <a href="https://www.hackerrank.com/your-hackerrank-username" target="_blank">
+  <a href="https://www.hackerrank.com/arpitkhandelwal9" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
   </a>
 
