@@ -1,34 +1,140 @@
-## About Me:
-- I'm Arpit
+<h1 align="center">Hi 👋, I'm Arpit Khandelwal</h1>
 
-- A Student,Verified Discord Developer and A Programmer (ofcourse, xD)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Enthusiast;Data+Science+%7C+Cyber+Security+%7C+Cloud+%7C+Full+Stack;B.Tech+CSE+2nd+Year+Student+at+LPU;Building+Skills+for+Product+Based+Companies;Future+AI+Startup+Founder;Always+Learning+%7C+Always+Building">
+</p>
 
-- What I Like: Watching Anime, Programming, Making Bots etc etc.
+<p align="center">
+  🚀 Future AI Founder & ML Engineer &nbsp;|&nbsp; 🎓 B.Tech CSE (2nd Year) at LPU &nbsp;|&nbsp; 🇮🇳 India
+</p>
 
-- Reasons to Like Me: Infinite :)
+---
 
-## Some More:
+## 🧠 About Me
 
-- 🔭 Check My Bot - [**Smart Bot**](/)
+- 🔭 Currently focusing on **AI, Machine Learning, and Data Science**
+- 🌱 Learning **Deep Learning, NLP, Cloud Computing, and Cyber Security**
+- 🧑‍💻 Passionate about **AI SaaS, Automation, and End-to-End Product Development**
+- 🎯 2025 Goal: **Crack AI/ML Internship + Build SmartBiz AI**
+- 💡 Interested in **AI, Data, System Design, and Problem Solving**
+- 💬 Ask me about **Python, ML, GitHub, Roadmaps, and Tech Career**
+- 🏫 College: **Lovely Professional University – B.Tech CSE (Lateral Entry, 2nd Year)**
+- 📫 Reach me via **LinkedIn DM or GitHub**
 
-- 🌱 I’m learning **JavaScript, Python and CSS with HTML**
+---
 
-- 📫 Reach me Via E-mail - **arpitkhandelwal810@gmail.com**
+## 🌐 Connect With Me
 
-- 📄 Check Out My Portfolio - [**Portfolio**]()
+<p align="center">
+  <a href="https://github.com/ArpitKhandelwal-developer" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/arpitttkhandelwal" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-- ⚡ Fun fact - **I love music, but I am a bit shy to sing xD :)**
+---
 
-<h2 align="left">Connect With Me:</h2>
+## 🛠 Tech Stack & Tools
 
-- Instagram: [Arpit Khandelwal](https://www.instagram.com/arpit._.exe/)
-- Twitter: [URL](https://twitter.com/ArpitKh01199788)
-- Discord : `Arpit Khandelwal#8488`
+### 👨‍💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-## My Stocks:
+### 🤖 AI / ML / Data Science
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
 
-[<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-edb200?style=flat-square&logo=javascript&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [<img alt="Python" src="https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=python&logoColor=white" />](https://python.org) [<img alt="C++" src="https://img.shields.io/badge/-C++-31429b?style=flat-square&logo=c%2B%2B&logoColor=white" />](https://en.wikipedia.org/wiki/C++) [<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />](https://nodejs.org) [<img alt="mongoDB" src="https://img.shields.io/badge/-mongoDB-4fb23f?style=flat-square&logo=mongodb&logoColor=white" />](https://mongodb.com) [<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />](https://npmjs.com) [<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) [<img alt="Git" src="https://img.shields.io/badge/-Git-f05033?style=flat-square&logo=git&logoColor=white" />](https://git-scm.com) [<img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />](https://code.visualstudio.com/) [<img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=important" />](https://ubuntu.com/) [<img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />](https://microsoft.com/en-US/windows/)
+### 🌐 Web & Cloud
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
 
-<h2 align="left">GitHub Stats:</h2>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ArpitKhandelwal-developer&show_icons=true&locale=en" alt="ArpitKhandelwal-developer" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ArpitKhandelwal-developer&label=Profile%20views&color=0e75b6&style=flat" alt="ArpitKhandelwal-developer" /> </p>
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-0078d4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
+
+---
+
+## 🏆 Certifications (Ongoing & Planned)
+
+- ✅ Google Machine Learning Crash Course  
+- ✅ IBM Machine Learning with Python  
+- ✅ Kaggle Python & Data Science  
+- ✅ Microsoft AI Fundamentals  
+
+*(Will keep updating this section as I complete more)*
+
+---
+
+## 🧩 Competitive Programming Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/arpitkhandelwal810/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange"/>
+  </a>
+  
+  <a href="https://www.hackerrank.com/your-hackerrank-username" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+  </a>
+
+  <a href="https://www.geeksforgeeks.org/user/your-gfg-username/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📊 Live LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/arpitkhandelwal810?theme=dark&font=Baloo&ext=contest" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArpitKhandelwal-developer&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=ArpitKhandelwal-developer&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/ArpitKhandelwal-developer/ArpitKhandelwal-developer/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ArpitKhandelwal-developer&style=for-the-badge&color=brightgreen" />
+</p>
+
+---
+
+⭐ If you like my profile, consider **following** and ⭐️ **starring** my future repositories!
